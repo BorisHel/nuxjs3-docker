@@ -2,16 +2,7 @@
 
 This boilerplate is used to quick start a dockerised projet on **WSL2 with hotReload**
 
-## Install Nextjs
-
-Open the terminal of your choice and scaffold a new project with this command:
-
-1. Install Nextjs 3
-````
-npx nuxi init .
-````
-
-2. Start our local development
+## Start our local development
 
 Now we are ready to start our local development server on http://localhost:3000 with a simple command in our terminal:
 
