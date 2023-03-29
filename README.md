@@ -1,6 +1,6 @@
-# A WSL2 dockerized Nuxtjs 3 development environment boilerplate
+# A Windows WSL2 Docker Nuxtjs 3 development environment boilerplate
 
-This boilerplate is used to quick start a dockerised projet on WSL2 with hotReload
+This boilerplate is used to quick start a dockerised projet on **WSL2 with hotReload**
 
 ## Install Nextjs
 
