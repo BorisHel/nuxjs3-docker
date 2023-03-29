@@ -46,9 +46,11 @@ ENV PATH ./node_modules/.bin/:$PATH
 ### docker-compose.yml
 
 Define our services to tell Docker which containers need to spin up.
-version: '3'
+
 
 ````
+version: '3'
+
 services:
   nuxt:
     build:
