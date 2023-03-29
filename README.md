@@ -49,7 +49,7 @@ Define our services to tell Docker which containers need to spin up.
 
 
 ````
-version: '3'
+version: '3.4'
 
 services:
   nuxt:
