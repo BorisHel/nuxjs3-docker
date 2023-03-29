@@ -43,7 +43,7 @@ COPY . .
 ENV PATH ./node_modules/.bin/:$PATH
 ````
 
-### docker-compose.yml
+### Docker-compose.yml
 
 Define our services to tell Docker which containers need to spin up.
 
